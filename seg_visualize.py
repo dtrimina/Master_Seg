@@ -8,7 +8,7 @@ import numpy as np
 from aBack.core.valer import Valer
 from pathlib import Path
 
-from data import SegImage
+from data.image import SegImage
 from utils import SegMeter
 
 # from toolbox.data.dataset import SegTrainSet
