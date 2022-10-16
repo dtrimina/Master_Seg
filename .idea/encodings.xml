@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/losses" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/models" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/models/backbones/repvgg.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/release/SpaceOS_Release_model_pld_and_seg/result_back.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/result/SpaceOS_Release_model_pld_and_seg/result384x384.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/result/SpaceOS_Release_model_pld_and_seg/result_before.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/result/from_remote/Seg_STDCNet1446_2022-04-21-03-46/result.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/result/from_remote/Seg_STDCNetLarge_2022-04-23-01-09/result.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/result/from_remote/Seg_hrnet48_2022-04-18-00-34/result.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/run/Seg_STDCNetLarge_2022-04-21-17-59/result.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/run/Seg_STDCNetLarge_2022-04-21-17-59_copy/result.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/train_irseg_cccmodel.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/train_irseg_cccmodel_apex.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/train_irseg_cccmodel_mix.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/utils/metrics.py" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
