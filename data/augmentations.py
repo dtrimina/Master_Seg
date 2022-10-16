@@ -122,9 +122,9 @@ class GaussianBlur(object):
             assert 'img' in results
             kernel_size, sigma = self.get_random_params()
             results['img'] = cv2.GaussianBlur(results['img'], kernel_size, sigma)
-        if common.torch_rand(0, 1) < self.prob and "dep" in results:
-            kernel_size, sigma = self.get_random_params()
-            results['dep'] = cv2.GaussianBlur(results['dep'], kernel_size, sigma)
+        # if common.torch_rand(0, 1) < self.prob and "dep" in results:
+        #     kernel_size, sigma = self.get_random_params()
+        #     results['dep'] = cv2.GaussianBlur(results['dep'], kernel_size, sigma)
 
         return results
 

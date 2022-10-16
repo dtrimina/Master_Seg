@@ -7,7 +7,7 @@ image_h = 480
 image_w = 640
 
 # Model cfg
-n_classes = 4
+n_classes = 9
 
 model_name = "cccmodel"
 pretrained = None
